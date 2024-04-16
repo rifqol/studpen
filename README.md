@@ -1,6 +1,4 @@
-# Tugas 2
-
-Data Preprocessing
+# Tugas 2 - Data Preprocessing
 
 Assignment Outcomes:
 - Participants are able to do data preparation before doing next processes

@@ -1,5 +1,4 @@
-# Tugas 1
-Tugas Foundation for Data Science
+# Tugas 1 - Foundation for Data Science
 
 A. Tugas SQL Foundation
 
